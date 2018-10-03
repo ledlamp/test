@@ -13,3 +13,5 @@ o now it's back
 <h1><code>no wai</code></h1>
 
 <div style="text-align:center">how to center</div>
+
+<div align="center">oh this is how you center</div>
